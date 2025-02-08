@@ -10,4 +10,4 @@ https://akankshap-internship-task-2.netlify.app/
 
 Screen Shots :
 
-![alt text](<images/Screenshot 1.png>) ![alt text](<images/Screenshot 1.png>) ![alt text](<images/Screenshot 1.png>)
+![alt text](<images\Screenshot 1.png>) ![alt text](<images\Screenshot 1.png>) ![alt text](<images\Screenshot 1.png>)
